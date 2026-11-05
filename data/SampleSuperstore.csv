@@ -1,0 +1,9 @@
+Order Date,Category,Region,Customer Segment,Quantity,Discount,Sales,Profit
+2024-01-10,Technology,East,Consumer,3,0.10,1200,250
+2024-02-15,Furniture,West,Corporate,2,0.20,800,120
+2024-03-20,Office Supplies,South,Home Office,5,0.05,450,90
+2024-04-11,Technology,Central,Consumer,4,0.15,2200,400
+2024-05-18,Furniture,East,Corporate,1,0.30,650,70
+2024-06-05,Office Supplies,West,Consumer,6,0.00,700,150
+2024-07-22,Technology,South,Home Office,2,0.05,1800,350
+2024-08-30,Furniture,Central,Consumer,3,0.25,950,110

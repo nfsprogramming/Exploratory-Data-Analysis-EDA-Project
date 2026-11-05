@@ -1,0 +1,13 @@
+Dataset Information
+========================================
+Shape: (8, 8)
+Columns: ['Order Date', 'Category', 'Region', 'Customer Segment', 'Quantity', 'Discount', 'Sales', 'Profit']
+Missing Values: 0
+Duplicate Rows: 0
+Memory Usage: 2.18 KB
+
+Unique Values (Categorical):
+  Order Date: 8
+  Category: 3
+  Region: 4
+  Customer Segment: 3
